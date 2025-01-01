@@ -41,6 +41,7 @@ class NilaiController extends Controller
         }
     }
 
+
     public function getNilaiST()
     {
         try {
