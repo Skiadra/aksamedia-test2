@@ -5,3 +5,6 @@ Riady Wiguna
 
 ## SQL Usage
 [Here](app/Http/Controllers/NilaiController.php)
+
+## POSTMAN Collection
+[POSTMAN COLLECTION HERE](https://www.postman.com/material-observer-66373835/aksamedia-test/collection/0cirm1i/aksamedia-test2)
