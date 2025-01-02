@@ -2,3 +2,6 @@
 
 ## Creator
 Riady Wiguna
+
+## SQL Usage
+[Here](app/http/controller/NilaiController.php)
