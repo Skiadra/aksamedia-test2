@@ -4,4 +4,4 @@
 Riady Wiguna
 
 ## SQL Usage
-[Here](app/http/controller/NilaiController.php)
+[Here](app/Http/Controllers/NilaiController.php)
